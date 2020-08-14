@@ -1,0 +1,2 @@
+zip|type|address|ownership|purchase_date|year_built|foundation|frame|stories|heating|roof_material|roof_installed|square_footage|rebuild_cost|flood_zone|fire_hydrant|fire_station|first_name|last_name|dob|email|
+95695|SINGLE_FAMILY|738 6th St, Woodland, CA|OWN|07/2012|1945|Slab|Wood frame|1|Boiler|Slate|1945|6,080|50000|No|Yes|1-5 miles|testFirst|testlast|07/07/1980|test_001@zebra.com|

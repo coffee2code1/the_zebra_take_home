@@ -1,0 +1,30 @@
+{
+  "header": ["The Zebra®",
+    "Our agents can help you save.",
+    "Compare",
+    "Tools & Tips",
+    "Company"],
+
+  "hero": ["Insurance in",
+    "black & white.",
+    "Compare insurance quotes instantly.",
+    "Car",
+    "insurance",
+    "Home",
+    "insurance",
+    "Been here before?",
+    "Review your quotes."],
+
+  "how-zebra-works-container": [
+    "How does",
+    "The Zebra work?",
+    "Share",
+    "Compare",
+    "Save",
+    "Tell us a little about yourself and your car and ",
+    " coverage needs.",
+    "We instantly show you dozens of ",
+    " side-by-side from top providers for free.",
+    "Choose your quote and secure your new rate in an instant, online or via one of our licensed agents."
+  ]
+}
